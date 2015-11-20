@@ -1,0 +1,9 @@
+#Folders to be ignored
+ignore/
+
+#Archives to be ignored 
+*.zip
+*.rar
+*.tar*
+*.7z
+*.gz
